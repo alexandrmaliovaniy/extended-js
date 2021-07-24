@@ -1,0 +1,19 @@
+{
+  "name": "extended-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrmaliovaniy/extended-js.git"
+  },
+  "author": "Alexandr Maliovaniy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandrmaliovaniy/extended-js/issues"
+  },
+  "homepage": "https://github.com/alexandrmaliovaniy/extended-js#readme"
+}
